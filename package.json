@@ -51,5 +51,8 @@
     "isbinaryfile": "^3.0.2",
     "unirest": "^0.6.0",
     "xmldoc": "^0.4.0"
-  }
+  },
+	"overrides": {
+		"request": "https://github.com/cypress-io/request.git#v3.0.5"
+	}  
 }
