@@ -1,6 +1,6 @@
 {
   "name": "nwabap-ui5uploader",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Deploying a SAPUI5/OpenUI5 file structure to SAP NetWeaver ABAP via ADT (ABAP Developer Tools)",
   "keywords": [
     "npm module",
@@ -52,7 +52,7 @@
     "unirest": "^0.6.0",
     "xmldoc": "^0.4.0"
   },
-	"overrides": {
-		"request": "https://github.com/cypress-io/request.git#v3.0.5"
-	}  
+  "overrides": {
+    "request": "https://github.com/cypress-io/request.git#v3.0.5"
+  }
 }
